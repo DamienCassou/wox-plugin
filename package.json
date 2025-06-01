@@ -10,7 +10,7 @@
     "reinstall": "pnpm run clean:all && pnpm install"
   },
   "devDependencies": {
-    "@babel/cli": "^7.24.7",
+    "@babel/cli": "^7.27.2",
     "@babel/core": "^7.24.7",
     "@types/jest": "^29.5.12",
     "@babel/preset-env": "^7.24.7",
